@@ -1,3 +1,3 @@
 
-puts "#{"Ruby! "*4}"
-11111
+puts "#{"Ruby! "*4}" 
+puts "TEXT"
